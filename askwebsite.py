@@ -13,3 +13,5 @@ data = [1, 2, 3, 4, 5]
 for num in data:
     result = filter.update(num)
     print(f"Cumulative Sum: {result}")
+
+#I want to search for Under Armour CURRY 10 on czech websites, Aliexpress, etc.
