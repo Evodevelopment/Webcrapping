@@ -15,3 +15,5 @@ for num in data:
     print(f"Cumulative Sum: {result}")
 
 #I want to search for Under Armour CURRY 10 on czech websites, Aliexpress, etc.
+# Sources:
+https://www.zoot.cz/polozka/3606790/oranzovo-cerne-panske-tenisky-under-armour-curry-10
