@@ -19,3 +19,8 @@ for num in data:
 https://www.zoot.cz/polozka/3606790/oranzovo-cerne-panske-tenisky-under-armour-curry-10
 
 #poohlednout se po webscrapping videich, udelat si silny uvod, atd. tzn. Udemy, Chatgpt, atd.
+
+Webscrapping Udemy
+ChatGPT
+
+
