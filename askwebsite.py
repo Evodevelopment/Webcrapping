@@ -22,5 +22,3 @@ https://www.zoot.cz/polozka/3606790/oranzovo-cerne-panske-tenisky-under-armour-c
 
 Webscrapping Udemy
 ChatGPT
-
-
